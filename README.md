@@ -1,7 +1,7 @@
 # Hi, I'm Joseph 👋
 
-Postgrad researcher & developer focused on **distributed systems resilience**, 
-cloud infrastructure, and full-stack development.  
+Postgrad researcher & developer focused on **distributed systems resilience**, **Artificial Intelligence**, **Data**
+**cloud infrastructure**, and **full-stack development**.  
 Open to **internship positions**.
 
 ---
@@ -53,7 +53,8 @@ Open to **internship positions**.
 
 **Stack:** Flutter, Dart, Swift, C++, Laravel, Google Maps, Stripe, PayPal
 
-[Flutter Frontend →](your-flutter-repo-link) • [Laravel Backend →](your-laravel-repo-link)
+[Flutter Frontend →](https://github.com/J-arobo/food_delivery_app3) • [Laravel Backend →](https://github.com/J-arobo/shopping_app_backend)
+[Live Project →](https://food-delivery-app-ce205.web.app)
 
 ---
 
