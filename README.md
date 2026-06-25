@@ -1,6 +1,6 @@
 # Hi, I'm Joseph 👋
 
-Postgrad researcher & developer focused on **distributed systems resilience**, **Artificial Intelligence**, **Data**
+Postgrad researcher & developer focused on **distributed systems resilience**, **Artificial Intelligence**, **Data**,
 **cloud infrastructure**, and **full-stack development**.  
 Open to **internship positions**.
 
